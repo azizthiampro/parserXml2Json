@@ -1,0 +1,39 @@
+{
+  "family": {
+    "person": [
+      {
+        "role": [
+          "Mom"
+        ],
+        "name": [
+          "Alison"
+        ],
+        "age": [
+          "44"
+        ]
+      },
+      {
+        "role": [
+          "Father"
+        ],
+        "name": [
+          "Ben"
+        ],
+        "age": [
+          "45"
+        ]
+      },
+      {
+        "role": [
+          "Son"
+        ],
+        "name": [
+          "Ian"
+        ],
+        "age": [
+          "8"
+        ]
+      }
+    ]
+  }
+}
